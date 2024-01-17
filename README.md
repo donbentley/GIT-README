@@ -25,5 +25,5 @@ I'm a undergraduate student studying computer science. All coding projects are r
 
 #
 <details>
- <summary><h3>my journey</h3></summary>
+ <summary><h3>my programming journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about programming -code, java, math. I acquired skills in Java during my freshman year and refined them with my knowledge of the tools present in JavaFX libraries while attempting to make simple games. After learning basic OOP principles, during my sophomore year I learned HTML, CSS, and JavaScript basics in pursuit of making something tangible. At the same time I improved my skills while providing private tutoring to underclassmen over Java principles. This year I have started working with React in efforts to bring responsive web design to the tools I was already creating. Learning more every day.
