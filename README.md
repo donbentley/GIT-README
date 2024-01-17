@@ -1,4 +1,4 @@
-# 🍎 Don Bentley
+# 🍎 don bentley
 
 **`Computer Science Student at The University of Georgia`**
 
