@@ -5,7 +5,7 @@
 undergraduate student studying computer science. All coding projects are reflection of my journey to create cool stuff from the ground up.
 <br>
 
-<b>Committed to improving 1% every day!<b>
+<b>committed to improving 1% every day!<b>
 
 <!-- Social icons section -->
 <p align="center">
